@@ -1,0 +1,17 @@
+{
+  "name": "npm1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sridhar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "gulp": "^3.9.1",
+    "react": "^15.6.1",
+    "reactjs": "^1.0.0"
+  }
+}
